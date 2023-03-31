@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danbsb
-- 👀 I’m interested in HTML, CSS, JavaScritp, React.js, React Native
+- 👀 I’m interested in HTML, CSS, JavaScritp, React.js, Node.js
 - 🌱 I’m currently learning JavaScritp
 - 📫 How to reach me: daniel.fontinele@gmail.com
 
