@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danbsb
-- 👀 I’m interested in HTML, CSS, Tecnologias JavaScritp, React.js, Node.js
-- 🌱 I’m currently learning HTML, CSS, JavaScritp e CSharp
+- 👀 I’m interested in HTML, CSS, JavaScritp, .NET Core, SQL Server, Power BI
+- 🌱 I’m currently learning HTML, CSS, JavaScritp e CSharp, Asp.NET, EF Core
 - 📫 How to reach me: daniel.fontinele@gmail.com
 
 <!---
