@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danbsb
 - ✏️ Systems Analysis and Development - UniCEUB
-- 👀 I’m interested in HTML, CSS, JavaScritp, .NET Core, SQL Server, Power BI
+- 👀 I’m interested in Web Development, .NET Core, SQL Server, Power BI
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScritp e CSharp, Asp.NET, EF Core
 - 📫 How to reach me: daniel.fontinele@gmail.com
 
